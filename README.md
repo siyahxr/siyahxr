@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**siyahxr/siyahxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (AI-assisted learning)
 
-Here are some ideas to get you started:
+I build modern web interfaces using:
+- HTML, CSS, JavaScript
+- AI tools (ChatGPT, Cursor) for faster development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- Improving frontend skills
+- Building real-world projects
+- Learning React
+
+## 🚀 Projects
+- Portfolio Website → (link)
+- Landing Page Design → (link)
+- JavaScript App → (link)
+
+## 📫 Contact
+- Linkedin: https://www.linkedin.com/in/abdullah-efe-ta%C5%9Fk%C4%B1n-4b4b10415/
+- GitHub: github.com/siyahxr
